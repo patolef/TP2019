@@ -1,0 +1,32 @@
+﻿productid;PRD_ProductName;supplierid;PRD_Supplier_name;PRD_CategoryID;PRD_Categorie;PRD_QuantityPerUnit;PRD_UnitCost;PRD_UnitPrice;PRD_UnitsInStock;PRD_UnitsOnOrder
+1;Lenin Jeansshorts;1;Sunny Clothes;1;"Men's Clothes";10;15,37;20;39;0
+2;Mr2 Trousers;1;Sunny Clothes;1;"Men's Clothes";10;16,17;19;17;40
+3;Chantell Shirt;1;Sunny Clothes;2;"Women's Clothes";20;15,45;20;13;70
+4;Rossi Shorts;2;Big L;2;"Women's Clothes";15;19,34;22;53;0
+5;O-Man Underwear;2;Big L;1;"Men's Clothes";100;4,72;6;0;0
+6;Shagall Socks;3;Dressed for Succes;2;"Women's Clothes";50;3,21;4;120;0
+7;Runner Shoes;3;Dressed for Succes;7;"Children's Clothes";40;33,11;40;15;0
+8;Tuxedo Top;3;Dressed for Succes;2;"Women's Clothes";20;16,14;20;6;0
+9;Fuji Boots;4;NR;6;"Men's Footwear";10;32,9;39;29;0
+10;Sapporoo Gloves;4;NR;8;Baby Clothes;20;6,2;7;31;0
+11;Desperado Jeans;5;Los Hombres Machos;1;"Men's Clothes";25;21,1;28;22;30
+12;Tank Swimsuit;5;Los Hombres Machos;4;Swimwear;20;7,92;10;86;0
+13;Aino Shoes;6;SatSUMAs;8;Baby Clothes;25;21,11;25;24;0
+14;Kool Sunglasses;6;SatSUMAs;7;"Children's Clothes";21;20,36;23,25;35;0
+15;Sumi Underwear;6;SatSUMAs;2;"Women's Clothes";30;4,98;6,5;39;0
+16;Wimbledon T-Shirt;7;New Balls;3;Sportswear;24;7,33;9,45;29;0
+17;TieBreak Tennis shoes;7;New Balls;6;"Men's Footwear";36;19,35;25;0;0
+18;Deuce Shirt;7;New Balls;8;Baby Clothes;18;22,09;25,5;42;0
+19;Squash Shorts;8;Hot Pants;3;Sportswear;1;7,4;9,2;25;0
+20;Tennis Suit;8;Hot Pants;3;Sportswear;1;64,49;81;40;0
+21;Basket Shoes;8;Hot Pants;3;Sportswear;1;8,78;10;3;40
+22;Ravellis Träskor;9;Goa Kläder;5;"Women's Footwear";90;2,65;3,5;104;0
+23;DSW Sandals;9;Goa Kläder;5;"Women's Footwear";100;7,43;9;61;0
+24;Samba Soccer Socks;10;Samba;1;"Men's Clothes";100;3,9;4,5;20;0
+25;Basket Vest;11;Der Bahnhof;3;Sportswear;1;10,85;14;76;0
+26;Bike Helmet;11;Der Bahnhof;3;Sportswear;1;26,13;31,23;15;0
+27;Tracksuit;11;Der Bahnhof;3;Sportswear;1;36,06;43,9;49;0
+28;RDL Suit;12;Austerlich;7;"Children's Clothes";1;36,81;45,6;26;0
+29;Davenport Shoes;12;Austerlich;6;"Men's Footwear";1;100,74;123,79;0;0
+30;Baby Dark Lounge Suit;13;Executive Clothing GMBH;8;Baby Clothes;1;22,71;25,89;10;0
+
